@@ -2,3 +2,4 @@
 Console.WriteLine("Hello, World!");
 
 const int Timeout = 5226;
+Console.WriteLine(Timeout.ToString());
